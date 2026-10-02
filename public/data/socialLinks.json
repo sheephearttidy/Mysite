@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Github",
+        "icon": "/image/icon/github.png",
+        "tip": "去 Github 看看 !",
+        "url": "https://github.com/sheephearttidy"
+    }, 
+    {
+        "name": "BiliBili",
+        "icon": "/image/icon/bilibili.png",
+        "tip": "( °  - °)つロ 干杯 ~",
+        "url": "https://bilibili.com/"
+    }, {
+        "name": "QQ",
+        "icon": "/image/icon/qq.png",
+        "tip": "有什么事吗 ?",
+        "url": "https://qq.com"
+    }, {
+        "name": "Email",
+        "icon": "/image/icon/email.png",
+        "tip": "来封 Email ~",
+        "url": "mailto:sheephearttidy@qq.com"
+    }
+]
